@@ -7,7 +7,6 @@
   bibtex_show={true},
   preview={image_qmm_24.gif},
   abbr={J.Phys.Chem.C},
-  selected={true},
   title={Toward Advanced QM/MM MD Simulations of Solid Liquid Interfaces Adsorption and Proton Transfer of Multilayer Water on R-TiO2 (001)},
   author={Saleh, Muhammad and Hi Djumat, Hariman and Wijaya, Karna and Hofer, Thomas S},
   journal={The Journal of Physical Chemistry C},
@@ -15,25 +14,8 @@
   number={23},
   pages={9766--9775},
   year={2024},
-  publisher={ACS Publications},
-  doi={/10.1021/acs.jpcc.4c02299},
-  url={https://pubs.acs.org/doi/full/10.1021/acs.jpcc.4c02299?casa_token=GXVy80gph10AAAAA%3Ayo8ZST0DpknLTU9ORdylrwkw9IONqT5juylLNZjZPrBtauiGHQiVLn8AJi4dvI0K4-FhRs-B06ofRAQ}
-}
-
-@article{saleh2019dftb,
-  bibtex_show={true},
-  preview={image_qmm_19.gif},
-  abbr={J.Phys.Chem.C},
-  selected={true},
-  title={A DFTB/MM MD approach for solid-state interfaces: structural and dynamical properties of H2O and NH3 on R-TiO2 (001)},
-  author={Saleh, Muhammad and Hofer, Thomas S},
-  journal={The Journal of Physical Chemistry C},
-  volume={123},
-  number={12},
-  pages={7230--7245},
-  year={2019},
-  doi={/10.1021/acs.jpcc.9b00574},
   publisher={ACS Publications}
+
 }
 
 @book{einstein1920relativity,
@@ -90,7 +72,7 @@
   video={https://www.youtube-nocookie.com/embed/aqz-KE-bpKQ},
   additional_info={. *More Information* can be [found here](https://github.com/alshedivat/al-folio/)},
   annotation={* Example use of superscripts<br>† Albert Einstein},
-  selected={False},
+  selected={true},
   inspirehep_id = {3255}
 }
 
